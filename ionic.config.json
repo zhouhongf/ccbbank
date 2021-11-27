@@ -1,0 +1,7 @@
+{
+  "name": "ccbbank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
